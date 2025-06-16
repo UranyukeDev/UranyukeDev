@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=400&color=F7CF18&center=true&multiline=true&width=700&height=100&lines=Hello%2C+I'm+Nyuke+%E2%98%A2;I'm+a+CS+student+who+loves+turning+cool+ideas+into+code.;I'm+currently+exploring+game+development+and+UI+design.">
-  <img src="assets/nuclear.gif" width="20%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=400&color=F7CF18&center=true&multiline=true&repeat=false&width=700&height=100&lines=Hello%2C+I'm+Nyuke+%E2%98%A2;I'm+a+CS+student+who+loves+turning+cool+ideas+into+code.;I'm+currently+exploring+game+development+and+UI+design.">
 </div>
 
 ### <img src="assets/rotatingcube.gif" width="42px" align="absmiddle" /> About me
@@ -31,7 +30,8 @@
 
 <div align="center">
   I'm always open to connecting with other people, sharing feedback, or building cool things together.
-  
+  <br><br>
+
   ![Discord](https://img.shields.io/badge/Discord-uranyuke235-5865F2?logo=discord&logoColor=white&style=for-the-badge)
   [![Steam](https://img.shields.io/badge/Steam-uranyuke235-171a21?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/id/uranyuke235/)
 </div>
