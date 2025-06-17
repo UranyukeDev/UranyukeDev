@@ -39,5 +39,5 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UranyukeDev&include_all_commits=true&hide_border=false&count_private=true&show_icons=true&theme=dark&title_color=fcba05&text_color=6f6f6f)](https://github.com/UranyukeDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UranyukeDev&include_all_commits=true&hide_border=false&count_private=true&show_icons=true&theme=dark&title_color=fcba05&text_color=f7c600)](https://github.com/UranyukeDev/github-readme-stats)
 </div>
